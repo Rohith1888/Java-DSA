@@ -13,6 +13,7 @@ class SelectionSort{
             System.out.print(arr[i]+" ");
         }
         
+        
     }
 
 
